@@ -5,6 +5,8 @@ Your constitution, your climate, your biometrics — fused into one live harmony
 
 No accounts. No database. No paid APIs required.
 
+**▶ Live demo:** https://pranasync.vercel.app
+
 ---
 
 ## What it does
